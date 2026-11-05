@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Документ</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="account">
+
+    <header class="header">
+        <button class="back">‹</button>
+        <h2>Удостоверение личности</h2>
+    </header>
+
+    <div class="tabs">
+        <a href="index.html" class="tab active">
+            Документ
+        </a>
+
+        <a href="details.html" class="tab">
+            Реквизиты
+        </a>
+    </div>
+
+    <div class="id">
+        <img src="images/id_front.png" alt="id_front">
+        <img src="images/id_back.png" alt="id_back">
+    </div>
+
+    <div id="document" class="content active">
+
+        <div class="document-actions">
+
+            <div class="separator"></div>
+
+            <button class="action-btn present-btn">
+                <img src="images/qr-logo.svg" alt="QR">
+                <span>Предъявить документ</span>
+            </button>
+
+            <button class="action-btn share-btn">
+                <img src="images/share-icon.svg" alt="Отправить">
+                <span>Отправить документ</span>
+            </button>
+
+        </div>
+
+    </div>
+
+
+</div>
+
+
+
+<script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+<script src="script.js"></script>
+</body>
+</html>

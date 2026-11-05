@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="49975556-ec53-4e4d-8c52-cf67ebecfe0f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fakekaspi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000000000357814" />
+      <entry key="S2" value="1.0024460068061694" />
+      <entry key="S5" value="1.0924988079859659" />
+      <entry key="S10" value="1.3479900977556825" />
+      <entry key="S30" value="2.052397923555631" />
+      <entry key="S60" value="2.621674009256844" />
+      <entry key="M2" value="3.3156393487648406" />
+      <entry key="M5" value="4.4005486618979415" />
+      <entry key="M10" value="7.318584167415421" />
+      <entry key="M15" value="10.97919632910504" />
+      <entry key="M30" value="19.33238613213702" />
+      <entry key="H1" value="27.0638857198022" />
+      <entry key="H2" value="32.38211953871247" />
+      <entry key="H4" value="35.50975986312516" />
+      <entry key="D1" value="38.39132923644959" />
+      <entry key="W1" value="38.91236207416934" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="2.802658851361066E-128" />
+      <entry key="S2" value="1.293875708232017E-32" />
+      <entry key="S5" value="1.7569403772722323E-13" />
+      <entry key="S10" value="4.191587261732997E-7" />
+      <entry key="S30" value="0.007483868892364819" />
+      <entry key="S60" value="0.08650935725325919" />
+      <entry key="M2" value="0.29412493489987596" />
+      <entry key="M5" value="0.6150408814539782" />
+      <entry key="M10" value="0.8288176475689634" />
+      <entry key="M15" value="0.9776784458552379" />
+      <entry key="M30" value="1.2797465853124954" />
+      <entry key="H1" value="1.5584359287279774" />
+      <entry key="H2" value="1.7533783488666435" />
+      <entry key="H4" value="1.8693808221003094" />
+      <entry key="D1" value="1.9771338591952612" />
+      <entry key="W1" value="1.9967054331443885" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.47631899902196867" />
+      <entry key="MS500" value="0.8621435450354866" />
+      <entry key="S2" value="0.9656525809635459" />
+      <entry key="S5" value="1.071355498693955" />
+      <entry key="S10" value="1.326231020670168" />
+      <entry key="S30" value="2.0381747782370403" />
+      <entry key="S60" value="2.689209871536113" />
+      <entry key="M2" value="3.594095357882583" />
+      <entry key="M5" value="5.00587248325936" />
+      <entry key="M10" value="8.14045474061012" />
+      <entry key="M15" value="11.950688944720852" />
+      <entry key="M30" value="20.607209723643855" />
+      <entry key="H1" value="28.618978102002046" />
+      <entry key="H2" value="34.1335152235567" />
+      <entry key="H4" value="37.37805674254311" />
+      <entry key="D1" value="40.36826810123119" />
+      <entry key="W1" value="40.909039279019574" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3LhFrQwttXUx6V4T7lTU5EYoy18" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.index.html.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/Жанар/Desktop/AITU/2nd year/1st trimester/веб/fakekaspi/src/Main.java",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="fakekaspi" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="fakekaspi" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="fakekaspi" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="fakekaspi" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="49975556-ec53-4e4d-8c52-cf67ebecfe0f" name="Changes" comment="" />
+      <created>1793898592132</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1793898592132</updated>
+      <workItem from="1793898593303" duration="33000" />
+      <workItem from="1793898633906" duration="729000" />
+      <workItem from="1793899542044" duration="4335000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
